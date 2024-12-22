@@ -75,7 +75,7 @@ Installation
    ```
 2. Navigate to the project directory:
    ```bash
-   cd bank
+   cd I-Love-Hackathon
    ```
 3. Install dependencies:
    ```bash
