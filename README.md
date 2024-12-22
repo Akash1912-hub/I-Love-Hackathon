@@ -71,11 +71,11 @@ Key Deliverables
 Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/TeamGhasa/blockchain-banking.git
+   git https://github.com/Akash1912-hub/I-Love-Hackathon.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd blockchain-banking
+   cd bank
    ```
 3. Install dependencies:
    ```bash
@@ -83,9 +83,9 @@ Installation
    ```
 4. Run the application:
    ```bash
-   npm start
+   npm run dev
    ```
-5. Access the platform at `http://localhost:3000`.
+5. Access the platform at `http://localhost:5173`.
 
 Future Scope
 - Integration of AI models for fraud detection and risk analysis.
